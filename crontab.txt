@@ -1,0 +1,2 @@
+# Irma GEFS Bot - EST timezones
+1 2,8,14,20 * * * /usr/bin/python3 /path/to/bot.py >/dev/null 2>&1
